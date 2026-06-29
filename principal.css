@@ -1,0 +1,81 @@
+body{
+    background-color: steelblue;
+    border: 2px solid #252525;
+    margin: 0px auto;
+    margin-top: 100px;
+    max-width: 650px;
+    width: 90%;
+}
+
+#categorias{
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   font-size: 25px;
+   color: #252525;
+   border: 2px solid #252525;
+   margin: 0px auto;
+   margin-top: 20px;
+   max-width: 650px;
+   width: 90%;
+   background-color: darkgrey;
+}
+
+.principal{
+    margin: 20px;
+    color: black;
+    text-decoration: none;
+}
+.principal:hover{
+    background-color: gainsboro;
+    transition: 0.3s;
+}
+
+.formacao{
+    margin: 20px;
+    color: black;
+    text-decoration: none;
+}
+.formacao:hover{
+    background-color: gainsboro;
+    transition: 0.3s;
+}
+
+.portifolio{
+    margin: 20px;
+    color: black;
+    text-decoration: none;
+}
+.portifolio:hover{
+    background-color: gainsboro;
+    transition: 0.3s;
+}
+
+.contato{
+    margin: 20px;
+    color: black;
+    text-decoration: none;
+}
+.contato:hover{
+    background-color: gainsboro;
+    transition: 0.3s;
+}
+
+#sobreMim{
+    margin: 0px auto;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    max-width: 650px;
+    width: 90%;
+    border: 2px solid #252525;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+.imagem{
+    width: 90%;
+    padding-top: 5px;
+}
+
+
+
